@@ -1,0 +1,2 @@
+This Python File Can Bloack Or Redirect Any Website To It's Local Host In A Perticular Time Period 
+When The Time period is Exceeded Then It Automatically Unbloack All The Websites
